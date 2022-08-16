@@ -4,7 +4,7 @@ import { Switch, Route } from "react-router-dom";
 import HomePage from "./pages/homepage/homepage.component";
 import ShopPage from "./pages/shop/shop.component";
 import Header from "./components/header/header.component.jsx";
-import SigninAndSignupPage from "./components/signin-and-signup/signin-and-signup.component";
+import SigninAndSignupPage from "./pages/signin-and-signup/signin-and-signup.component";
 import { auth } from "./components/firebase/firebase.utils";
 import React from "react";
 
